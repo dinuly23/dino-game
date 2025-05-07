@@ -1,0 +1,19 @@
+{
+  "gamer1": {
+    "realName": "Playername1",
+    "score": 1
+  },
+  "gamer2": {
+    "realName": "Playername2",
+    "score": 0
+  },
+  "__ghalam": {
+    "realName": "ghalam_gamer",
+    "score": 0
+  },
+  "__leader": {
+    "realName": "Playername1",
+    "score": 1,
+    "quote": "I am the leader"
+  }
+}

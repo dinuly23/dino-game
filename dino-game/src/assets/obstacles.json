@@ -1,0 +1,24 @@
+{
+  "normal": [
+    "assets/rock.png",
+    "assets/towel.png",
+    "assets/antenna.png",
+    "assets/beaver.png",
+    "assets/cat.png",
+    "assets/chair.png",
+    "assets/cigarette.png",
+    "assets/milk.png",
+    "assets/paper.png",
+    "assets/water.png",
+    "assets/doc.png",
+    "assets/wet.png"
+  ],
+  "high": [
+    "assets/comet.png",
+    "assets/2027.png",
+    "assets/airbus.png",
+    "assets/baloon.png",
+    "assets/pillow.png",
+    "assets/zynq.png"
+  ]
+}
